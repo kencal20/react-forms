@@ -1,0 +1,39 @@
+#intro{border: 2px solid grey; 
+	border-radius: 10px;
+   border-top: 15px solid deepskyblue;
+}
+
+#intro >p{
+	color:red;
+	
+}
+span{
+	color:red;
+}
+
+.fillings{
+	border: 1px solid black ;
+	border-radius: 20px;
+   
+    height: 14vh;
+    padding:40px;
+
+}
+input{
+	border: none;
+	border-bottom: 1px solid black;
+	width: 50%;
+}
+button{
+	 border-radius: 5px;
+	 width: 20%;
+	 height: 5vh;
+	 background-color: grey;
+
+}
+
+.fillings >.radio>input{
+	margin-left: 5px;
+	width: 40px;
+}
+
